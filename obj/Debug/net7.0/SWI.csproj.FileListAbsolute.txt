@@ -1,0 +1,15 @@
+/home/martin/Desktop/SWI/bin/Debug/net7.0/SWI
+/home/martin/Desktop/SWI/bin/Debug/net7.0/SWI.deps.json
+/home/martin/Desktop/SWI/bin/Debug/net7.0/SWI.runtimeconfig.json
+/home/martin/Desktop/SWI/bin/Debug/net7.0/SWI.dll
+/home/martin/Desktop/SWI/bin/Debug/net7.0/SWI.pdb
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.csproj.AssemblyReference.cache
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.GeneratedMSBuildEditorConfig.editorconfig
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.AssemblyInfoInputs.cache
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.AssemblyInfo.cs
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.csproj.CoreCompileInputs.cache
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.dll
+/home/martin/Desktop/SWI/obj/Debug/net7.0/refint/SWI.dll
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.pdb
+/home/martin/Desktop/SWI/obj/Debug/net7.0/SWI.genruntimeconfig.cache
+/home/martin/Desktop/SWI/obj/Debug/net7.0/ref/SWI.dll
